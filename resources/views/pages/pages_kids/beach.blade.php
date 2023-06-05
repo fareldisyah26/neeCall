@@ -4,28 +4,16 @@
 
 <div class="row mx-3">
     <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/beach/IMG_20230521_172604.jpg" class="img-fluid" alt="image">
+        <img src="/assets/outfit_kids/beach\WhatsApp Image 2023-06-04 at 19.48.11.jpeg" class="img-fluid" alt="image">
     </div>
     <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/beach/IMG_20230521_175917.jpg" class="img-fluid" alt="image">
+        <img src="/assets/outfit_kids/beach\WhatsApp Image 2023-06-04 at 19.48.12 (1).jpeg" class="img-fluid" alt="image">
     </div>
     <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/beach/IMG_20230521_182112.jpg" class="img-fluid" alt="image">
+        <img src="/assets/outfit_kids/beach\WhatsApp Image 2023-06-04 at 19.48.12.jpeg" class="img-fluid" alt="image">
     </div>
     <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/beach/IMG_20230521_182144.jpg" class="img-fluid" alt="image">
-    </div>
-    <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/beach/IMG_20230521_172604.jpg" class="img-fluid" alt="image">
-    </div>
-    <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/beach/IMG_20230521_175917.jpg" class="img-fluid" alt="image">
-    </div>
-    <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/beach/IMG_20230521_182112.jpg" class="img-fluid" alt="image">
-    </div>
-    <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/beach/IMG_20230521_182144.jpg" class="img-fluid" alt="image">
+        <img src="/assets/outfit_kids/beach\WhatsApp Image 2023-06-04 at 19.48.13.jpeg" class="img-fluid" alt="image">
     </div>
 </div>
 

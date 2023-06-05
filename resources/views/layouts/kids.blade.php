@@ -16,10 +16,9 @@
                 <div class="card ms-5" style="width: 18rem;">
                     <img src="/assets/outfit_kids/summer/IMG_20230521_181338.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">KULIAH</h5>
-                        <p class="card-text">Kombinasi outfit yang kece namun tetap sopan dan nyaman untuk kegiatan
-                            perkuliahan.</p>
-                        <a href="/kids/college" class="btn btn-primary">LIHAT</a>
+                        <h5 class="card-title">HANGOUT</h5>
+                        <p class="card-text">Kombinasi outfit yang kece namun tetap sopan dan nyaman untuk jalan-jalan.</p>
+                        <a href="/kids/hangouts" class="btn btn-primary">LIHAT</a>
                     </div>
                 </div>
                 <div class="card ms-5" style="width: 18rem;">

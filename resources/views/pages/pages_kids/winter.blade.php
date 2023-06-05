@@ -4,28 +4,16 @@
 
 <div class="row mx-3">
     <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/winter/IMG_20230521_173624.jpg" class="img-fluid" alt="image">
+        <img src="/assets/outfit_kids\winter\WhatsApp Image 2023-06-04 at 19.50.12.jpeg" class="img-fluid" alt="image">
     </div>
     <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/winter/IMG_20230521_174429.jpg" class="img-fluid" alt="image">
+        <img src="/assets/outfit_kids\winter\WhatsApp Image 2023-06-04 at 19.50.13 (1).jpeg" class="img-fluid" alt="image">
     </div>
     <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/winter/IMG_20230521_175822.jpg" class="img-fluid" alt="image">
+        <img src="/assets/outfit_kids\winter\WhatsApp Image 2023-06-04 at 19.50.13 (2).jpeg" class="img-fluid" alt="image">
     </div>
     <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/winter/IMG_20230521_175847.jpg" class="img-fluid" alt="image">
-    </div>
-    <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/winter/IMG_20230521_173624.jpg" class="img-fluid" alt="image">
-    </div>
-    <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/winter/IMG_20230521_174429.jpg" class="img-fluid" alt="image">
-    </div>
-    <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/winter/IMG_20230521_175822.jpg" class="img-fluid" alt="image">
-    </div>
-    <div class="col-md-4 mt-3 col-lg-3">
-        <img src="/men/winter/IMG_20230521_175847.jpg" class="img-fluid" alt="image">
+        <img src="/assets/outfit_kids\winter\WhatsApp Image 2023-06-04 at 19.50.13.jpeg" class="img-fluid" alt="image">
     </div>
 </div>
 
