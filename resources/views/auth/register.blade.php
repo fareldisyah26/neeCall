@@ -9,10 +9,10 @@
         integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
 </head>
 
-<body style="font-family: Poppins; background-color: #FAE3B6">
+<body style="background-image: url('/img/andy-vult-t-WkBEOQngs-unsplash.jpg');">
     <div class="d-inline-flex w-screen">
         <div class="w-50 ms-5">
-            <a class="text-decoration-none text-dark" href="/"><h1 class="fw-bold mt-3 mb-3" style="font-family: Poppins; background-color: #FAE3B6">D'OUTFIT</h1></a>
+            <a class="text-decoration-none text-dark" href="/"><h1 class="fw-bold mt-3 mb-3" style="font-family: Poppins; ">neeCall</h1></a>
 
             <div class="text-center mt-2">
                 <div class="d-inline-flex">
@@ -145,7 +145,7 @@
             </div>
 
             <div class="mt-1 pt-3 text-center">
-                <button type="submit" form="register" class="text-dark" style="background: linear-gradient(0deg, #FAE3B6, #FAE3B6);
+                <button type="submit" form="register" class="text-dark" style="background: linear-gradient(0deg, #739072, #739072);
                 box-shadow: 0px 4px 4px 0px #00000040; border-radius: 20px; height: 60px; width: 472px; border-radius: 20px; font-family: Frank Ruhl Libre; font-size: 24px; font-weight: 500; text-align: center;">
                     {{ __('Register') }}
                 </button>
